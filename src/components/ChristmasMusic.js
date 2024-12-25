@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import  { useEffect } from 'react';
 import { Howl } from 'howler';
 
 const ChristmasMusic = () => {

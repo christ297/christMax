@@ -1,10 +1,44 @@
-# 🎄 Christmas Music Player - React & Howler
+# 🎄 Christmas Magic Website
 
-Ce projet permet d'ajouter une musique de Noël qui se joue lorsque l'utilisateur clique sur un élément de la navigation (sauf le lien GitHub). Il utilise **Howler.js** pour la gestion de l'audio et **React** pour l'interface.
+Bienvenue sur le projet **Christmas Magic Website**, un site web interactif et festif conçu avec **React**. Ce site offre une expérience immersive pour célébrer la magie de Noël avec des animations, des fonctionnalités interactives et des surprises quotidiennes.
 
-### 🚀 Fonctionnalités
-- **Musique de Noël** : La musique se lance lorsque l'utilisateur clique sur un élément de la barre de navigation (tous sauf le lien vers GitHub).
-- **Autoplay conditionnel** : La musique ne commence à jouer que si l'utilisateur interagit avec un élément spécifique de la page.
+---
+
+## 🚀 Fonctionnalités
+
+- **Effet de neige dynamique** : Une animation de neige pour une ambiance magique.
+- **Musique de Noël** : La musique se lance lorsque l'utilisateur clique sur un élément de la barre de navigation.
+- **Message de Noël poétique** : Présenté dans une section avec un effet parallaxe.
+- **Calendrier de l'Avent interactif** : Une surprise chaque jour !
+- **Traditions de Noël** : Apprenez-en plus sur les pratiques festives.
+- **Fonctionnalités interactives** :
+  - Écrire un vœu et le voir s'animer.
+  - Activités ludiques (personnalisation, jeux de Noël, etc.).
+- **Design sophistiqué** :
+  - Palette de couleurs luxueuse : or, blanc, et vert foncé.
+  - Effets 3D et animations.
+- **Responsivité** : Adapté aux écrans de toutes tailles.
+
+---
+
+## 📁 Structure du Projet
+
+```plaintext
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── Snowfall.jsx
+│   ├── ParallaxSection.jsx
+│   ├── GreetingMessage.jsx
+│   ├── Traditions.jsx
+│   ├── Calendar.jsx
+│   ├── InteractiveFeatures.jsx
+│   ├── MakeAWish.jsx
+│   ├── Footer.jsx
+├── App.jsx
+├── index.jsx
+├── styles.css
+
 
 ### 📦 Prérequis
 
