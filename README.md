@@ -7,7 +7,7 @@ Bienvenue sur le projet **Christmas Magic Website**, un site web interactif et f
 ## 🚀 Fonctionnalités
 
 - **Effet de neige dynamique** : Une animation de neige pour une ambiance magique.
-- **Musique de Noël** : La musique se lance lorsque l'utilisateur clique sur un élément de la barre de navigation.
+- **Musique de Noël** : La musique se lance lorsque l'utilisateur clique sur un élément.
 - **Message de Noël poétique** : Présenté dans une section avec un effet parallaxe.
 - **Calendrier de l'Avent interactif** : Une surprise chaque jour !
 - **Traditions de Noël** : Apprenez-en plus sur les pratiques festives.
