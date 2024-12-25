@@ -8,7 +8,6 @@ import Calendar from './components/Calendar';
 import InteractiveFeatures from './components/InteractiveFeatures';
 import MakeAWish from './components/MakeAWish';
 import Footer from './components/Footer';
-import ARExperience from './components/ARExperience';
 import ChristmasMusic from './components/ChristmasMusic';
 
 function App() {

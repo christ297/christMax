@@ -46,10 +46,6 @@
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "webpack-cli": "^6.0.1"
-  },
+  }
 
-  "rules": {
-    "no-unused-vars": "warn",
-  
-}
 }
